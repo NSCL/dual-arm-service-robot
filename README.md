@@ -1,2 +1,2 @@
 # dual-arm-service-robot
-Capstone
+2018 Capstone
