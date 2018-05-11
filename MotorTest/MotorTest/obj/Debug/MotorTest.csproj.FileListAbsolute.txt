@@ -1,0 +1,5 @@
+c:\users\jaewanchoi\documents\visual studio 2013\Projects\MotorTest\MotorTest\bin\Debug\MotorTest.exe.config
+c:\users\jaewanchoi\documents\visual studio 2013\Projects\MotorTest\MotorTest\obj\Debug\MotorTest.csprojResolveAssemblyReference.cache
+c:\users\jaewanchoi\documents\visual studio 2013\Projects\MotorTest\MotorTest\obj\Debug\MotorTest.Form1.resources
+c:\users\jaewanchoi\documents\visual studio 2013\Projects\MotorTest\MotorTest\obj\Debug\MotorTest.Properties.Resources.resources
+c:\users\jaewanchoi\documents\visual studio 2013\Projects\MotorTest\MotorTest\obj\Debug\MotorTest.csproj.GenerateResource.Cache
